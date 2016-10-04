@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RESTexample</string>
+    <string name="get_url">URL to get</string>
+    <string name="button_get">Request</string>
+</resources>
